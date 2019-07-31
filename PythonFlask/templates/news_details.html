@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<!--     <link rel="stylesheet" href="css/bootstrap.css">
+    <script src="js/jquery.1.12.4.min.js"></script>
+    <script src="js/bootstrap.js"></script> -->
+<!--
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script> -->
+    <link rel="stylesheet" href="http://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="http://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+    <script src="http://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../static/assets/css/main.css">
+    <title>NEWS AGGREGATOR</title>
+</head>
+<body>
+     <nav class="navbar navbar-default navi2-header" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#" style="color:white; font-weight: 600;">NEWS AGGREGATOR</a>
+            </div>
+            <div>
+                <ul class="nav navbar-nav" id="navigation">
+                    <li ><a href="#" class="header-word" style="color:white">HOME</a>
+                    </li>
+                    <li><a href="#" class="header-word" style="color:white">HOTPOTS</a></li>
+                    <li><a href="#" class="header-word" style="color:white">WORLD NEWS</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle header-word" data-toggle="dropdown" style="color:white">
+                            LOCAL NEWS</a>
+                    <ul class = "dropdown-menu">
+                            <li><a href="#">Business</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#">Technology</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#">Politics</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#">Social</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#">Sport</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#">Health</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#">Arts</a></li>
+                    </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle header-word" data-toggle="dropdown" style="color:white">
+                            MORE
+                            <b class="caret" style="color:white"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">DEVELOPER</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#">ABOUT US</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#">Jasper Report</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                            <a href="#" class="material-button search-toggle"><i class="material-icons">&#xE8B6;</i></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+       <!--<div class="search-bar">
+				<form class="search-form">
+					<div class="search-input-wrapper">
+						<input type="text" name="qq" placeholder="search something..." class="search-input">
+						<button type="submit" name="search" class="search-submit"><i class="material-icons">&#xE5C8;</i></button>
+					</div>
+					<span class="search-close search-toggle">
+						<i class="material-icons">&#xE5CD;</i>
+					</span>
+				</form>
+			</div>-->
+    </nav>
+
+        <section class="main-content">
+			<div class="main-content-wrapper">
+				<div class="container">
+                    <div class="col-sm-2">
+                        <div class="article-share">
+                            <img class="img-responsive" onclick="" style="position:fixed" src="../static/assets/image/a.png">
+                            <img class="img-responsive" style="position:fixed;margin-top:120px" src="../static/assets/image/d.png">
+                        </div>
+                    </div>
+					<article class="col-sm-8">
+						<div class="article-header">
+							<div class="breadcrumb">
+								<ul>
+									<li><a href="index.html"><span>Home</span></a> <i> > </i> </li>
+									<li><a href="index/{{ return_entity.category }}"><span>{{ return_entity.category }}</span></a><i> > </i> </li>
+									<li><span id='news_title'>{{return_entity.title}}</span></li>
+								</ul>
+							</div>
+						</div>
+						<div class="article-content"> <!-- adbox120 or adbox160 -->
+
+							<div class="article-inner" class="col-sm-8" style="max-width:680px">
+								<div class="article-description" id="meta_description">
+									{{ return_entity.meta_description }}
+								</div>
+
+								<figure>
+									<img id="top_image" class="img-responsive" src="data:image/gif;base64,{{ return_entity.top_image }}">
+								</figure>
+                                <div id="content" style="white-space:pre-line">
+									{{ return_entity.cleaned_text }}
+                                </div>
+
+
+								<!-- article sources area start -->
+								<div class="article-source-box">
+									<div class="source-item">
+										<span class="source-subtitle">Source : </span>
+										<span class="source-url">{{ return_entity.url}}</span>
+									</div>
+								</div>
+								<!-- article sources area end -->
+
+								<div class="article-tags">
+									<span class="tag-subtitle">Publish time : </span>
+									<a href="#">{{return_entity.publish_date}}</a><span class="tag-dot"></span>
+								</div>
+
+								<!-- article tags area start -->
+								<div class="article-tags">
+									<span class="tag-subtitle">Tags : </span>
+									<a href="#">{{return_entity.meta_keywords}}</a><span class="tag-dot"></span>
+								</div>
+								<!-- article tags area end -->
+							</div>
+
+							<!--this is important for the left ad box or share box fixer -->
+							<div id="endOfTheArticle"></div>
+
+
+						</div>
+					</article>
+					<!-- article body end -->
+
+				</div>
+			</div>
+		</section>
+
+</body>
+</html>
