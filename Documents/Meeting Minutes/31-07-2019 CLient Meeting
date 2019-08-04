@@ -17,24 +17,16 @@ Attendees:
 Agenda: Elicitating requirements and expectations, and deviding technical work for team.
 
 Motions:
-(1)	
+(1)	Tom provided the team with the required tools and environments such as Bootstrap4 and Disqus which can be considered as a referenced model.
+
+(2) Tom required that in this semester, we would focus on Canberra news.
+
+(3) For machine learning team,  improving the extraction and training a few new news ranking models would be main tasks.
+
+(4) For UI team, improving the interface work and conducting user survey would be main tasks.
  
-(2)	Briefly introducing what the project have been done in the last semester
-
-(3)	Preparing questions for the client to gather requirements and expectations
-
-
-  
  Outcomes:
- (1). Work dividing:
-1 Minute taker – Luokun Gong
-2	Gantt chart & burn down chart & User story map – Luokun Gong, Chen Zhang
-3	Contactor – Xiangyun Kong
-4	Requirements elicitation – Yuliang Zhang, Vishnu Jasti
-5	Risk management – Jun Yang
-6 Schedule, SOW - Jiahua Liang
-
-
-(2)	The plan is partly built. The plan will be detailed more after the tutorial and client meeting.
-
-(3)	The question-list is roughly finished.
+ (1). The technical work is initially divided.
+ 
+    Machine learning - Yulinag Zhang, Vishnu Vardhan Jasti, Jun Yang, Chen Zhang
+    UI               - Jiahua Liang, Luokun Gong, Xiangyun Kong
