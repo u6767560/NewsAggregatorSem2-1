@@ -4,9 +4,6 @@
 Traditional media is serious but in recession. The new media is dazzling, but can only provide fragmented information. In order to achieve a balance between the two and push valuable news for the audience, we tried to construct News Aggregator website (http://gpu.jkl.io:5000/) last semester by using clustering and machine learning methods. This semester, in view of the existing problems of the website, we will carry out further work to make it more Canberra Focused.
 
 ## First Audit
-<details>
-
-  ##<summary size = 20><font size=12>Click to view First Audit Materials (Please click me !!!!!!!!!)</font></summary>
 
 #### [Audit Slides](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/audit1.pdf) 
 
@@ -32,7 +29,6 @@ Traditional media is serious but in recession. The new media is dazzling, but ca
 
 [Current Gantt Chart (till week2)](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Gantt.png)
 
-</details>
 
 
 
