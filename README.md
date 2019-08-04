@@ -36,6 +36,9 @@ https://trello.com/b/vxJ6hSCv/news-aggregator-sem2
 ## User Story Map
 ![User Story Map](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/User%20Story%20Map.png)
 
+## User Story Point Matrix
+![User Story Point Matrix](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/User%20Story%20Point%20Matrix.png)
+
 ## Workflow:
 
 ![Workflow](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Workflow.png)
