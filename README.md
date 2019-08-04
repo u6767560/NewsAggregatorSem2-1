@@ -17,9 +17,9 @@ Traditional media is serious but in recession. The new media is dazzling, but ca
 
 [Communication](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Communication.md)
 
-[Current Burndown Chart](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Burndown.png)
+[Current Burndown Chart (till week2)](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Burndown.png)
 
-[Current Gantt Chart](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Gantt.png)
+[Current Gantt Chart (till week2)](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Gantt.png)
 
 
 
