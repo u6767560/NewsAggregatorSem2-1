@@ -5,21 +5,33 @@ Traditional media is serious but in recession. The new media is dazzling, but ca
 
 ## First Audit
 
-[Audit Slides](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/audit1.pdf)
+### [Audit Slides](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/audit1.pdf) 
 
-[Statement of Work](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/SOW_Unsigned.pdf)
+### [Statement of Work](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/SOW_Unsigned.pdf)
 
-[Decision Making](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Decision%20Making.md)
+### [Requirements](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Requirement.md)
+
+### [Decision Making](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Decision%20Making.md)
 
 [Teamwork](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Teamwork.md)
 
+[Communication](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Communication.md)
+
 [Feedback](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Feedback.md)
 
-[Communication](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Communication.md)
+[Tools](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Tools.md)
+
+[Reources, Costs, Risks](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Resources_Costs_Risks.md)
+
+[Schedule](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/schedule.png)
 
 [Current Burndown Chart (till week2)](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Burndown.png)
 
 [Current Gantt Chart (till week2)](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Gantt.png)
+
+
+
+
 
 
 
