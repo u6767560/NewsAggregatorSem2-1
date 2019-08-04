@@ -29,7 +29,7 @@ Traditional media is serious but in recession. The new media is dazzling, but ca
 
 Documents ready to sign.
 
-## Process Management Tool
+## Process Management
 
 https://trello.com/b/vxJ6hSCv/news-aggregator-sem2
 
