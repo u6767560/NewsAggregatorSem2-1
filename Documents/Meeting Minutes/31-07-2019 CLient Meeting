@@ -1,1 +1,32 @@
 
+Minutes for TechLauncher: News Aggregator with Python and Machine Learning 
+
+Date: 31/07/19
+    
+Attendees:
+  Chen Zhang
+  Jiahua Liang
+  Jun Yang
+  Luokun Gong
+  Vishnu Jasti
+  Xiangyun Kong
+  Yulinag Zhang
+  Tom
+
+
+Agenda: Elicitating requirements and expectations, and deviding technical work for team.
+
+Motions:
+(1)	Tom provided the team with the required tools and environments such as Bootstrap4 and Disqus which can be considered as a referenced model.
+
+(2) Tom required that in this semester, we would focus on Canberra news.
+
+(3) For machine learning team,  improving the extraction and training a few new news ranking models would be main tasks.
+
+(4) For UI team, improving the interface work and conducting user survey would be main tasks.
+ 
+ Outcomes:
+ (1). The technical work is initially divided.
+ 
+    Machine learning - Yulinag Zhang, Vishnu Vardhan Jasti, Jun Yang, Chen Zhang
+    UI               - Jiahua Liang, Luokun Gong, Xiangyun Kong
