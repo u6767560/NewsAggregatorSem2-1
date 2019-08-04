@@ -6,7 +6,7 @@ Traditional media is serious but in recession. The new media is dazzling, but ca
 ## First Audit
 <details>
 
-  ##<summary>Click to view First Audit Materials</font></summary>
+  ##<summary><font size=12>Click to view First Audit Materials</font></summary>
 
 #### [Audit Slides](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/audit1.pdf) 
 
