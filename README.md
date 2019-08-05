@@ -7,7 +7,7 @@ Traditional media is serious but in recession. The new media is dazzling, but ca
 
 [Audit Slides](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/audit1.pdf)
 
-[Statement of Work](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/SOW_Unsigned.pdf)
+[Statement of Work](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/SOW_Signed.pdf)
 
 [Decision Making](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/Decision%20Making.md)
 
@@ -27,7 +27,7 @@ Traditional media is serious but in recession. The new media is dazzling, but ca
 
 ## IP Progress：
 
-Documents ready to sign.
+Documents signed. To be sent to school delegae.
 
 ## Process Management
 
