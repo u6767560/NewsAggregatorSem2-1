@@ -33,10 +33,23 @@ Documents signed. To be sent to school delegae.
 
 https://trello.com/b/vxJ6hSCv/news-aggregator-sem2
 
+## Meeting Minutes
+<details>
+  <summary> Click to view meeting minutes </summary>
+
+[31-07-2019 Team Meeting](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Meeting%20Minutes/31-07-2019%20Team%20meeting)
+
+[31-07-2019 Client Meeting](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Meeting%20Minutes/31-07-2019%20CLient%20Meeting)
+
+</details>
+
+
 ## User Story Map
+
 ![User Story Map](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/User%20Story%20Map.png)
 
 ## User Story Point Matrix
+
 ![User Story Point Matrix](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/User%20Story%20Point%20Matrix.png)
 
 ## Workflow:
