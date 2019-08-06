@@ -27,7 +27,7 @@ Traditional media is serious but in recession. The new media is dazzling, but ca
 
 ## IP Progress：
 
-Documents signed. To be sent to school delegae.
+Sent to school delegate, waiting for execution.
 
 ## Process Management
 
