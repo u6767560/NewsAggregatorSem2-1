@@ -27,7 +27,7 @@ Traditional media is serious but in recession. The new media is dazzling, but ca
 
 ## IP Progress：
 
-Sent to school delegate, waiting for execution.
+[Executed IP Agreement](https://github.com/GeoZam/NewsAggregatorSem2/blob/master/Documents/Audit1/IP_S2_Executed.pdf)
 
 ## Process Management
 
